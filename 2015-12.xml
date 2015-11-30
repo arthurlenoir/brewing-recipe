@@ -23,27 +23,18 @@
     </STYLE>
     <BATCH_SIZE>20.0</BATCH_SIZE>
     <BOIL_SIZE/>
-    <BOIL_TIME>60.0</BOIL_TIME>
+    <BOIL_TIME>60</BOIL_TIME>
     <EFFICIENCY>75.0</EFFICIENCY>
     <OG>1.0728431275</OG>
-    <FG>1.018210781875</FG>
+    <FG>1.0225813695250001</FG>
     <HOPS>
       <HOP>
         <NAME>Columbus</NAME>
         <VERSION>1</VERSION>
-        <AMOUNT>0.025</AMOUNT>
+        <AMOUNT>0.05</AMOUNT>
         <FORM>Leaf</FORM>
         <TIME>60.0</TIME>
         <ALPHA>14.0</ALPHA>
-        <USE>Boil</USE>
-      </HOP>
-      <HOP>
-        <NAME>Mosaic</NAME>
-        <VERSION>1</VERSION>
-        <AMOUNT>0.025</AMOUNT>
-        <FORM>Leaf</FORM>
-        <TIME>60.0</TIME>
-        <ALPHA>12.0</ALPHA>
         <USE>Boil</USE>
       </HOP>
       <HOP>
@@ -51,7 +42,7 @@
         <VERSION>1</VERSION>
         <AMOUNT>0.05</AMOUNT>
         <FORM>Leaf</FORM>
-        <TIME>0.0</TIME>
+        <TIME>10</TIME>
         <ALPHA>15.0</ALPHA>
         <USE>Dry Hop</USE>
       </HOP>
@@ -81,13 +72,13 @@
     <MISCS/>
     <YEASTS>
       <YEAST>
-        <NAME>Denny's Favorite 50</NAME>
+        <NAME>West Yorkshire Ale</NAME>
         <VERSION>1</VERSION>
         <TYPE/>
         <FORM>Liquid</FORM>
         <LABORATORY>Wyeast</LABORATORY>
-        <PRODUCT_ID>1450</PRODUCT_ID>
-        <ATTENUATION>75.0</ATTENUATION>
+        <PRODUCT_ID>1469</PRODUCT_ID>
+        <ATTENUATION>69.0</ATTENUATION>
       </YEAST>
     </YEASTS>
     <WATERS/>
