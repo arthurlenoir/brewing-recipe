@@ -38,12 +38,12 @@
         <USE>Boil</USE>
       </HOP>
       <HOP>
-        <NAME>Citra</NAME>
+        <NAME>Cascade</NAME>
         <VERSION>1</VERSION>
-        <AMOUNT>0.05</AMOUNT>
-        <FORM>Leaf</FORM>
+        <AMOUNT>0.1</AMOUNT>
+        <FORM>Pellet</FORM>
         <TIME>10</TIME>
-        <ALPHA>15.0</ALPHA>
+        <ALPHA>6.0</ALPHA>
         <USE>Dry Hop</USE>
       </HOP>
     </HOPS>
@@ -72,12 +72,12 @@
     <MISCS/>
     <YEASTS>
       <YEAST>
-        <NAME>West Yorkshire Ale</NAME>
+        <NAME>London ESB Ale</NAME>
         <VERSION>1</VERSION>
         <TYPE/>
         <FORM>Liquid</FORM>
         <LABORATORY>Wyeast</LABORATORY>
-        <PRODUCT_ID>1469</PRODUCT_ID>
+        <PRODUCT_ID>1968</PRODUCT_ID>
         <ATTENUATION>69.0</ATTENUATION>
       </YEAST>
     </YEASTS>
